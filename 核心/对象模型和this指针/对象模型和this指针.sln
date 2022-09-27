@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "对象模型和this指针", "对象模型和this指针\对象模型和this指针.vcxproj", "{578B5C1B-DFB8-4357-897A-058631424CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Debug|x64.ActiveCfg = Debug|x64
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Debug|x64.Build.0 = Debug|x64
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Debug|x86.Build.0 = Debug|Win32
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Release|x64.ActiveCfg = Release|x64
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Release|x64.Build.0 = Release|x64
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Release|x86.ActiveCfg = Release|Win32
+		{578B5C1B-DFB8-4357-897A-058631424CF5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D4ACB63-181D-44B6-9922-7CE064E143DF}
+	EndGlobalSection
+EndGlobal
