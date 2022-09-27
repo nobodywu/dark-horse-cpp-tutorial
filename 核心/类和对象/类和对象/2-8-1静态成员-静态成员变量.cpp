@@ -43,7 +43,7 @@ void test281() {
 	cout << "p1.m_A: " << p1.m_A << endl;
 	cout << "p2.m_A: " << p2.m_A << endl;
 
-	// 通过类名访问静态变量成员
+	// 2. 通过类名访问静态变量成员
 	cout << "m_A: " << Person281::m_A << endl;
 	// cout << "m_B: " << Person281::m_B << endl; // 私有静态成员变量不可访问
 }
