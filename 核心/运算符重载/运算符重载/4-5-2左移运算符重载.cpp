@@ -31,7 +31,7 @@ void test452() {
 	cout << p1 << "hello world" << endl; // Á´Ê½±à³Ì
 }
 
-int main() {
+int main452() {
 
 	test452();
 
